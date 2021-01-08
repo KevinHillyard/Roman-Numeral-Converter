@@ -1,1 +1,2 @@
 I spent 3 hours and 25 minutes on this project. I have additional notes in my source code regarding the functions and what they do.
+The commit by PaulBHillyard was my dad walking me through how to submit my files to github through the command line/vs code.
