@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RomanNumeralConverter", "RomanNumeralConverter\RomanNumeralConverter.vcxproj", "{366DCD3F-3878-40B7-BC66-D01E5F85A8C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{366DCD3F-3878-40B7-BC66-D01E5F85A8C6}.Debug|x64.ActiveCfg = Debug|x64
+		{366DCD3F-3878-40B7-BC66-D01E5F85A8C6}.Debug|x64.Build.0 = Debug|x64
+		{366DCD3F-3878-40B7-BC66-D01E5F85A8C6}.Debug|x86.ActiveCfg = Debug|Win32
+		{366DCD3F-3878-40B7-BC66-D01E5F85A8C6}.Debug|x86.Build.0 = Debug|Win32
+		{366DCD3F-3878-40B7-BC66-D01E5F85A8C6}.Release|x64.ActiveCfg = Release|x64
+		{366DCD3F-3878-40B7-BC66-D01E5F85A8C6}.Release|x64.Build.0 = Release|x64
+		{366DCD3F-3878-40B7-BC66-D01E5F85A8C6}.Release|x86.ActiveCfg = Release|Win32
+		{366DCD3F-3878-40B7-BC66-D01E5F85A8C6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8BF8E38-4C24-426E-838A-A23E63A8652C}
+	EndGlobalSection
+EndGlobal
